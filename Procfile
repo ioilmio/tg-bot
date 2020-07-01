@@ -1,1 +1,1 @@
-web: bundle exec ruby -S puma -t 5:5 -p %PORT% -e production
+web: bundle exec ruby -S puma -t 5:5 -p 3000 -e production
